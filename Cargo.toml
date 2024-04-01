@@ -1,0 +1,9 @@
+[package]
+name = "boollion"
+version = "0.1.0"
+authors = [ "Sam Brew <arctic.hen@pm.me>" ]
+edition = "2021"
+
+[dependencies]
+thiserror = "1"
+boolean_expression = "0.4"
